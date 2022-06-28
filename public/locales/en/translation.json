@@ -1,0 +1,11 @@
+{
+  "title":{
+    "home":"Welcom Home",
+    "about":"Welcom About"
+  },
+
+  "header":{
+    "home":"Home",
+    "about":"About"
+  }
+}
