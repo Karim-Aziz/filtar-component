@@ -1,11 +1,11 @@
 {
-  "title":{
-    "home":"Welcom Home",
-    "about":"Welcom About"
+  "header": {
+    "home": "Home",
+    "about": "About"
   },
-
-  "header":{
-    "home":"Home",
-    "about":"About"
-  }
+  "title": {
+    "home": "Home Page",
+    "about": "About Page"
+  },
+  "logo": "React Project"
 }
